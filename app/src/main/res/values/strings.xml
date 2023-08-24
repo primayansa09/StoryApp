@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MyStories</string>
+    <string name="login">Login</string>
+    <string name="signup">Daftar</string>
+    <string name="copyright">© 2021 Dicoding</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Nama</string>
+    <string name="username">Username</string>
+    <string name="descriptions">Descriptions</string>
+    <string name="galery">Galery</string>
+    <string name="camera">Camera</string>
+    <string name="upload">Upload</string>
+    <string name="description">Deskripsi</string>
+    <string name="passwordEnable">Minimun 8 Character Password</string>
+    <string name="loginDisable"></string>
+    <string name="titleActivityMaps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
